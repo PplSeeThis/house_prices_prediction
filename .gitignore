@@ -1,0 +1,9 @@
+task.txt
+sample.ipynb
+EDA(1).ipynb
+Feature_Engineering(1).ipynb
+Modeling(1).ipynb
+Neural_Network(1).ipynb
+
+# Project exclude paths
+/models/
